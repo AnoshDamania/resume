@@ -120,7 +120,7 @@ a:hover{
   margin-top: 10px;
 }
 
-.wrapper .right .skills .skill_name:first-child, .wrapper .left .connect .info: first-child, .wrapper .left .projects .info: first-child{
+.wrapper .right .skills .skill_name:first-child, .wrapper .left .connect .info:first-child, .wrapper .left .projects .info:first-child{
   margin-top: 0;
 }
 
